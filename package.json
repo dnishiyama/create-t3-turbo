@@ -7,6 +7,7 @@
   },
   "packageManager": "pnpm@10.11.1",
   "scripts": {
+    "setup:pnpm": "corepack enable && corepack prepare pnpm@9.6.0 --activate",
     "build": "turbo run build",
     "clean": "git clean -xdf node_modules",
     "clean:workspaces": "turbo run clean",
