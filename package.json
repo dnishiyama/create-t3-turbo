@@ -3,7 +3,7 @@
   "private": true,
   "engines": {
     "node": ">=20.19.1",
-    "pnpm": ">=9.6.0"
+    "pnpm": ">=8.15.6"
   },
   "packageManager": "pnpm@10.11.1",
   "scripts": {
