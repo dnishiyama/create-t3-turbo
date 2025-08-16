@@ -22,5 +22,6 @@ export const getBaseUrl = () => {
       "Failed to get localhost. Please point to your production server.",
     );
   }
-  return `http://${localhost}:3000`;
+  return `https://9000-firebase-create-t3-turbo-1755379752892.cluster-f4iwdviaqvc2ct6pgytzw4xqy4.cloudworkstations.dev`
+  return `http://${localhost}:9000`;
 };

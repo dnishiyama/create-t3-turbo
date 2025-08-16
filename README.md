@@ -1,3 +1,11 @@
+# firebase studio setup
+- Make web public
+- update baseurl with copied web url
+- Install expo/ngrok: pnpm -F expo add -D @expo/ngrok
+- Run expo: pnpm -F expo dev --tunnel
+- Make port 8081 public (firebase studio)
+
+
 # create-t3-turbo
 
 > [!NOTE]
