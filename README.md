@@ -1,4 +1,5 @@
 # firebase studio setup
+- Load development build on phone
 - Make web public
 - update baseurl with copied web url
 - Install expo/ngrok: pnpm -F expo add -D @expo/ngrok
